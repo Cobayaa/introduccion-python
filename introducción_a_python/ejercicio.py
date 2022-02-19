@@ -66,7 +66,8 @@ for pronombres in conjugacion:
     print(pronombres[pronombres][conjugacion])
     print(pronombres, verbosinterminacion + pronombres[pronombres][terminaciones])
 
-#hi
+
+cobaya = 22
 
 
 
