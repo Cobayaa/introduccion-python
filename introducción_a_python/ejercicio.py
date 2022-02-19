@@ -66,6 +66,8 @@ for pronombres in conjugacion:
     print(pronombres[pronombres][conjugacion])
     print(pronombres, verbosinterminacion + pronombres[pronombres][terminaciones])
 
+#hi
+
 
 
 
